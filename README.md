@@ -9,9 +9,17 @@
 
 ---
 
-### 스터디내용
+### 주 발표 내용
 - Classification and logistic regression
+  - https://github.com/lmw5153/ML_seminars/blob/main/study/Classification%20and%20logistic%20regression.ipynb
 - Generative learning algorithms
+  - https://github.com/lmw5153/ML_seminars/blob/main/study/Generative%20learning%20algorithms.ipynb
 - Naive bayes
+  - https://github.com/lmw5153/ML_seminars/blob/main/study/Naive%20bayes.ipynb
+  - https://github.com/lmw5153/ML_seminars/blob/main/study/Naive%20bayes%2B%40.ipynb
 - Support vector machines
+  - https://github.com/lmw5153/ML_seminars/blob/main/study/Support%20vector%20mashines1.ipynb
+  - https://github.com/lmw5153/ML_seminars/blob/main/study/Support%20vector%20mashines2.ipynb
+  - https://github.com/lmw5153/ML_seminars/blob/main/study/Support%20vector%20mashines3.ipynb
 - Reinforcement learning
+  - https://github.com/lmw5153/ML_seminars/blob/main/study/Reinforcement%20learning.ipynb
