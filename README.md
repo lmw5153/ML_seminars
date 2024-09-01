@@ -1,2 +1,4 @@
 # ML_seminars
-학부연구생으로 참여했던 머신러닝 세미나 활동 내용
+---
+
+- 세미나 강의 자료 : [CS229](https://cs229.stanford.edu/main_notes.pdf)
